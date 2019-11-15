@@ -4,12 +4,12 @@ A script that gives all the info of ip addresses contained in a text file
 
 USAGE:
 
-	- python logsFilter.py inputTextFile 
-	- python logsFilter.py inputTextFile "countryCode"
+	- py logsFilter.py inputTextFile 
+	- py logsFilter.py inputTextFile "countryCode"
 
 EXAMPLE: 
 
-	- python logFilter.py SSHlogs
-	- python logFilter.py SSHlogs BE
+	- py logFilter.py SSHlogs
+	- py logFilter.py SSHlogs BE
 
 

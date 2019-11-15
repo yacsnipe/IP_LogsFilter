@@ -1,0 +1,49 @@
+Nov 11 06:25:06 raspberrypi CRON[9049]: pam_unix(cron:session): session closed for user root
+Nov 11 06:25:15 raspberrypi sshd[9290]: Invalid user eru from 106.12.132.110
+Nov 11 06:25:15 raspberrypi sshd[9290]: input_userauth_request: invalid user eru [preauth]
+Nov 11 06:25:15 raspberrypi sshd[9290]: pam_unix(sshd:auth): check pass; user unknown
+Nov 11 06:25:15 raspberrypi sshd[9290]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=106.12.132.110
+Nov 11 06:25:17 raspberrypi sshd[9290]: Failed password for invalid user eru from 106.12.132.110 port 56298 ssh2
+Nov 11 06:25:17 raspberrypi sshd[9290]: Received disconnect from 106.12.132.110: 11: Bye Bye [preauth]
+Nov 11 06:25:51 raspberrypi sshd[9336]: Invalid user ksar from 162.243.98.66
+Nov 11 06:25:51 raspberrypi sshd[9336]: input_userauth_request: invalid user ksar [preauth]
+Nov 11 06:25:51 raspberrypi sshd[9336]: pam_unix(sshd:auth): check pass; user unknown
+Nov 11 06:25:51 raspberrypi sshd[9336]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.98.66
+Nov 11 06:25:52 raspberrypi sshd[9336]: Failed password for invalid user ksar from 162.243.98.66 port 41467 ssh2
+Nov 11 06:25:52 raspberrypi sshd[9336]: Received disconnect from 162.243.98.66: 11: Bye Bye [preauth]
+Nov 11 06:25:59 raspberrypi sshd[9340]: Invalid user egidija from 80.91.176.171
+Nov 11 06:25:59 raspberrypi sshd[9340]: input_userauth_request: invalid user egidija [preauth]
+Nov 11 06:25:59 raspberrypi sshd[9340]: pam_unix(sshd:auth): check pass; user unknown
+Nov 11 06:25:59 raspberrypi sshd[9340]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=80.91.176.171
+Nov 11 06:26:01 raspberrypi sshd[9340]: Failed password for invalid user egidija from 80.91.176.171 port 51932 ssh2
+Nov 11 06:26:01 raspberrypi sshd[9340]: Received disconnect from 80.91.176.171: 11: Bye Bye [preauth]
+Nov 11 06:26:03 raspberrypi sshd[9345]: Invalid user perrella from 103.110.89.148
+Nov 11 06:26:03 raspberrypi sshd[9345]: input_userauth_request: invalid user perrella [preauth]
+Nov 11 06:26:03 raspberrypi sshd[9345]: pam_unix(sshd:auth): check pass; user unknown
+Nov 11 06:26:03 raspberrypi sshd[9345]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.110.89.148
+Nov 11 06:26:05 raspberrypi sshd[9345]: Failed password for invalid user perrella from 103.110.89.148 port 33978 ssh2
+Nov 11 06:26:05 raspberrypi sshd[9345]: Received disconnect from 103.110.89.148: 11: Bye Bye [preauth]
+Nov 11 06:26:53 raspberrypi sshd[9390]: Invalid user sydney from 106.38.76.156
+Nov 11 06:26:53 raspberrypi sshd[9390]: input_userauth_request: invalid user sydney [preauth]
+Nov 11 06:26:53 raspberrypi sshd[9390]: pam_unix(sshd:auth): check pass; user unknown
+Nov 11 06:26:53 raspberrypi sshd[9390]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=106.38.76.156
+Nov 11 06:26:55 raspberrypi sshd[9390]: Failed password for invalid user sydney from 106.38.76.156 port 44151 ssh2
+Nov 11 06:26:55 raspberrypi sshd[9390]: Received disconnect from 106.38.76.156: 11: Bye Bye [preauth]
+Nov 11 06:27:08 raspberrypi sshd[9433]: reverse mapping checking getaddrinfo for ip-103-85-63-253.moratelindo.net.id [103.85.63.253] failed - POSSIBLE BREAK-IN ATTEMPT!
+Nov 11 06:27:08 raspberrypi sshd[9433]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.85.63.253  user=root
+Nov 11 06:27:10 raspberrypi sshd[9433]: Failed password for root from 103.85.63.253 port 42216 ssh2
+Nov 11 06:27:10 raspberrypi sshd[9433]: Received disconnect from 103.85.63.253: 11: Bye Bye [preauth]
+Nov 11 06:27:31 raspberrypi sshd[9437]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ns3000627.ip-37-59-46.eu  user=root
+Nov 11 06:27:33 raspberrypi sshd[9437]: Failed password for root from 37.59.46.85 port 57596 ssh2
+Nov 11 06:27:33 raspberrypi sshd[9437]: Received disconnect from 37.59.46.85: 11: Bye Bye [preauth]
+Nov 11 06:27:53 raspberrypi sshd[9481]: Invalid user acs from 118.24.2.69
+Nov 11 06:27:53 raspberrypi sshd[9481]: input_userauth_request: invalid user acs [preauth]
+Nov 11 06:27:53 raspberrypi sshd[9481]: pam_unix(sshd:auth): check pass; user unknown
+Nov 11 06:27:53 raspberrypi sshd[9481]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=118.24.2.69
+Nov 11 06:27:55 raspberrypi sshd[9481]: Failed password for invalid user acs from 118.24.2.69 port 51432 ssh2
+Nov 11 06:27:56 raspberrypi sshd[9481]: Received disconnect from 118.24.2.69: 11: Bye Bye [preauth]
+Nov 11 06:28:00 raspberrypi sshd[9485]: Address 212.156.136.114 maps to 212.156.136.114.static.turktelekom.com.tr, but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!
+Nov 11 06:28:00 raspberrypi sshd[9485]: Invalid user pilla from 212.156.136.114
+Nov 11 06:28:00 raspberrypi sshd[9485]: input_userauth_request: invalid user pilla [preauth]
+Nov 11 06:28:00 raspberrypi sshd[9485]: pam_unix(sshd:auth): check pass; user unknown
+Nov 11 06:28:00 raspberrypi sshd[9485]: pam_unix(sshd:auth): authentication 
