@@ -9,7 +9,7 @@ USAGE:
 
 EXAMPLE: 
 
-	- py logFilter.py SSHlogs
-	- py logFilter.py SSHlogs BE
+	- py logsFilter.py SSHlogs
+	- py logsFilter.py SSHlogs BE
 
 
